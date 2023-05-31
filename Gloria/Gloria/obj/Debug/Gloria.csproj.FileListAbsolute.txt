@@ -1,0 +1,14 @@
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\bin\Debug\Gloria.exe.config
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\bin\Debug\Gloria.exe
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\bin\Debug\Gloria.pdb
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.csproj.AssemblyReference.cache
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.csproj.SuggestedBindingRedirects.cache
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.Form1.resources
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.Form2.resources
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.Properties.Resources.resources
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.csproj.GenerateResource.cache
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.exe
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.pdb
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.Form3.resources
+C:\Users\10\Desktop\Новая папка\Gloria\Gloria\obj\Debug\Gloria.Form4.resources
